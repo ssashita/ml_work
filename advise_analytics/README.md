@@ -2,11 +2,11 @@
 
 ## The data is completely anonymized - Stock Advisor names are numbers and there are no dates or prices. Only information about whether an advise hit the target or stoploss
 
- 	buysell durationtype 	advisor 	otheradvices 	symbolname 	success 	niftysentiment
+ 	     buysell durationtype 	advisor 	otheradvices 	symbolname 	success 	niftysentiment
 index 								
-0 	1 	  2               169 	          False 	 ADANIENT 	 False 	         1
-1 	1 	  3 	          161 	          True 	         GODREJCP 	 True 	         2
-2 	1 	  2 	          39 	          False 	 CIPLA 	         False 	         2
+0 	        1 	    2             169 	     False 	     ADANIENT 	 False 	        1
+1 	        1 	    3 	           161 	     True 	      GODREJCP 	 True 	         2
+2 	        1 	    2 	           39 	      False 	     CIPLA 	    False 	        2
    etc
    
 What the attributes (columns) mean
