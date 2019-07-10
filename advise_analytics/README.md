@@ -1,5 +1,7 @@
 # NSE Stock Advise Analystics
 
+This project comprises python code and data (.csv) to create learners that will predict the success or failure of stock advises  in the public domain given by stock advisors and investment firms and institutions
+
 ## The data is completely fictitious and anonymized - Stock Advisor names are numbers and there are no dates or prices. Only information about whether an advise hit the target or stoploss
 
 
