@@ -4,7 +4,7 @@
 
 
 |index| buysell |durationtype| 	advisor| 	otheradvices| 	symbolname| 	success| 	niftysentiment|
-|---------------------------------------------------------------------------------------------|
+|-----|---------|------------|----------|----------------|------------|-----------|------------------|
 |0 	   |     1 |	    2 |            169 |	     False |	     ADANIENT| 	 False |	        1     |
 |1 	   |     1 |     3 |	           161 |	     True 	|      GODREJCP| 	 True 	|         2     |
 |2 	   |     1 |	    2 |	           39 	|      False |	     CIPLA 	 |   False |	        2     |
