@@ -27,7 +27,7 @@
   *niftysentiment* - 1 means that on the day that the stock hit either Stoploss or Target price, Nifty 50 index had opened higher than the previous trading day's close. 2 means otherwise
   
   
-##### The 'success' column makes a good predicted (label) variable. Typically, if some advisor gives a new advise regarding some stock we would like to know if it will be a success or failure.
+##### The 'success' column makes for a good predicted (label) variable. Typically, if some advisor gives a new advise regarding some stock we would like to know if it will be a success or failure.
 
 
 
